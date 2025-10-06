@@ -1,3 +1,4 @@
+// Test: update detailpohon page 
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { Card, CardContent } from '@/components/ui/card';
