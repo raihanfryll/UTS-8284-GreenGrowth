@@ -81,7 +81,7 @@ const Admin = () => {
           <Card className="glass-effect border-white/20 p-8">
             <div className="text-center text-white">
               <h1 className="text-2xl font-bold mb-4">Akses Ditolak</h1>
-              <p>Anda tidak memiliki .</p>
+              <p>Anda tidak memiliki izin untuk mengakses halaman admin .</p>
             </div>
           </Card>
         </div>
