@@ -1,4 +1,4 @@
-
+// Test: update payment page
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Card, CardContent } from '@/components/ui/card';
